@@ -1,0 +1,42 @@
+body{
+  background-color: #fce8ae;
+}
+
+.btn{
+  width: 100%;
+}
+
+.pp{
+  width: 50vh;
+}
+
+.p{
+  width: 50vh;
+}
+
+.b{
+  width: 50vh;
+  margin-left: -390px;
+}
+
+.s{
+  width: 50vh;
+  margin-left: -390px;
+}
+
+.sp{
+  width: 80vh;
+margin-left: 112vh;
+margin-top: -91.4vh;
+}
+
+.card-panel{
+  background-color:#fffbe0/*#fce8ae*/;
+}
+input[type=button]{
+  padding: 10px 10px;
+  border: none ;
+  border-radius: 10px;
+  background-color: #26a69a;
+  color: white;
+}
